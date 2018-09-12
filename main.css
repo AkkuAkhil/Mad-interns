@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 18, 2018, 6:11:16 PM
+    Author     : Trainings
+*/
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.mySlides {display:none}
+body,nav{
+    background: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h5{
+    color: white;
+}
+#hrbottom{
+    color: #f00;
+    background-color: #f00;
+    height: 8px;
+}
+
+.w3-content {
+    max-width: 1200px;
+    margin: auto;
+}
+.w3-block{
+    width:80%;
+}
+
+input[type=text],input[type=number],input[type=url], select {
+    width: 100%;
+    padding: 16px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+select {
+    width: 90%;
+    padding: 16px 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #f1f1f1;
+}
+textarea {
+    width: 100%;
+    margin: 8px 0;
+    padding: 16px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.indexdiv{
+    margin-top: 26px;
+}
